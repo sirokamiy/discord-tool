@@ -1,5 +1,4 @@
-# discord-tool
-ディスコードのメッセージ送信ツール（日本語対応）
+失敗作）
 import { pgTable, text, integer, boolean } from "drizzle-orm/pg-core";
 import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
